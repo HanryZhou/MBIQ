@@ -17,7 +17,7 @@ The **MBIQ (Motion Blur Image Quality)** dataset is a motion blur image quality 
 
 ## Generation Process
 
-![generation of MBIQ and examples](assets\generation of MBIQ and examples.png)
+![generation of MBIQ and examples](https://github.com/HanryZhou/MBIQ/tree/main/assets\generation of MBIQ and examples.png)
 
 1. A **mobile phone camera** with its OIS (Optical Image Stabilization) module turned off is placed vertically on a **rotating platform**.
 2. The **rotation axis** of the platform is aligned with the optical center of the camera.
